@@ -1,4 +1,4 @@
-# 👋 Hi, I'm José — Data-Curious Storyteller
+# 👋 Hi there, I'm José
 
 ---
 
