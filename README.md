@@ -6,7 +6,7 @@
 
 I'm a tourism graduate transitioning into **data analytics**, bringing 9+ years of experience in **sales** and **community management**.
 
-I’m passionate about turning data into meaningful stories—especially around topics like **diversity**, **travel**, and **social trends**. Curious by nature, methodical by habit, empathetic by ❤️.
+I’m passionate about turning data into meaningful stories—especially around topics like **diversity**, **travel**, and **social trends**. Curious by nature, methodical by habit, empathetic by heart.
 
 ---
 
