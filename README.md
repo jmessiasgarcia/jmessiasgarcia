@@ -24,7 +24,7 @@ I’m passionate about turning data into meaningful stories—especially around 
 - `Python` | `SQL` | `R` (beginner)
 - `Excel` | `Google Sheets` | `Power BI` | `Tableau`
 - `Data Visualization` | `Spreadsheets` | `Data Cleaning`
-- Multilingual: Portuguese, Spanish, English and Catalan
+- `Multilingual: Portuguese, Spanish, English and Catalan`
 
 ---
 
