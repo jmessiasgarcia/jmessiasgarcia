@@ -36,9 +36,8 @@ I’m passionate about turning data into meaningful stories—especially around 
 
 ## 💬 Let's Connect
 
-📫 [LinkedIn](https://www.linkedin.com/in/jmessiasgarcia/)  
-💬 [Discord](https://discord.com/users/jmessiasgarcia)  
-📸 [Instagram](https://www.instagram.com/eagoravoce)  
-🐦 [X (Twitter)](https://x.com/jmessiasgarcia)  
+## 🤝 Connect With Me:
 
-
+[![LinkedIn](https://img.shields.io/badge/📫%20LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmessiasgarcia/)
+[![Discord](https://img.shields.io/badge/💬%20Discord-grey?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/jmessiasgarcia)
+[![Instagram](https://img.shields.io/badge/📸%20Instagram-grey?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eagoravoce/)
