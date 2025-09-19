@@ -14,9 +14,8 @@ Curious by nature, methodical by habit, empathetic by heart.
 
 ## 🧠 What I'm Working On
 
-- Completing the **Google Data Analytics Certificate**
-- Learning and building with **Python**, **SQL**, **Excel**, **Tableau**, and **Power BI** through **IT Academy Barcelona**.
-- Exploring personal projects focused on storytelling through data
+- Currently enrolled in a **Data Analysis Bootcamp at IT Academy Barcelona**, deepening skills in Python, SQL, Excel, Tableau, and Power BI.
+- Completed the **Google Data Analytics Certificate** – building a strong foundation in data analysis.
 - Looking for my first role as a **junior data analyst**
 
 ---
