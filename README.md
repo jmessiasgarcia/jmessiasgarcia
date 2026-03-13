@@ -12,6 +12,15 @@ Curious by nature, methodical by habit, empathetic by heart.
 
 ---
 
+### 🎓 Education & Professional Growth
+
+- 💼 **Simulador Empresarial (Barcelona Activa):** Currently applying data-driven strategies in a high-fidelity business simulation. I focus on analyzing market trends, optimizing operational costs, and making data-backed decisions to ensure business scalability.
+- 🎓 **Data Analysis Bootcamp Graduate (IT Academy Barcelona):** Successfully completed an intensive program focused on the full data stack: Python, SQL, Excel, Tableau, and Power BI.
+- 📜 **Google Data Analytics Professional Certificate:** Built a world-class foundation in the data lifecycle, from cleaning and processing to visualization and storytelling.
+- 🌱 **Continuous Learning:** Deeply interested in automated deployment (Streamlit Cloud) and advanced ML libraries to solve real-world bottlenecks.
+
+---
+
 ## 🧠 What I'm Working On
 
 - Currently enrolled in a **Data Analysis Bootcamp at IT Academy Barcelona**, deepening skills in Python, SQL, Excel, Tableau, and Power BI.
@@ -20,22 +29,21 @@ Curious by nature, methodical by habit, empathetic by heart.
 
 ---
 
-## 🛠️ Tools & Skills
+### 🚀 Key Projects
 
-- `Python` | `SQL` | `R` (beginner)
-- `Excel` | `Google Sheets` | `Power BI` | `Tableau`
-- `Data Visualization` | `Spreadsheets` | `Data Cleaning`
-- `Multilingual: Portuguese, Spanish, English and Catalan`
-
----
-
-## 🚀 Projects
-
-🧪 _Coming soon!_  
+* **Talent Vision (IA Predictiva):** Developed a Machine Learning ecosystem to predict employee absenteeism. Using Python and Scikit-Learn, I built a predictive engine that allows HR departments to anticipate logistics risks and optimize workforce planning through an interactive Streamlit dashboard.
+* **Smart Bakery Analysis:** A deep dive into sales and production data to minimize waste and maximize profitability. I transformed raw bakery data into actionable insights using SQL and Tableau to visualize demand patterns.
+* **Building New Apps:** I’m constantly prototyping new tools. My focus is on creating functional, data-driven applications that bridge the gap between complex algorithms and end-user decision-making.
 
 ---
 
-## 💬 Let's Connect
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ## 🤝 Connect With Me:
 
