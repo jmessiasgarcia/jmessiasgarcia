@@ -21,14 +21,6 @@ Curious by nature, methodical by habit, empathetic by heart.
 
 ---
 
-## 🧠 What I'm Working On
-
-- Currently enrolled in a **Data Analysis Bootcamp at IT Academy Barcelona**, deepening skills in Python, SQL, Excel, Tableau, and Power BI.
-- Completed the **Google Data Analytics Certificate** – building a strong foundation in data analysis.
-- Looking for my first role as a **junior data analyst**
-
----
-
 ### 🚀 Key Projects
 
 * **Talent Vision (IA Predictiva):** Developed a Machine Learning ecosystem to predict employee absenteeism. Using Python and Scikit-Learn, I built a predictive engine that allows HR departments to anticipate logistics risks and optimize workforce planning through an interactive Streamlit dashboard.
