@@ -20,11 +20,11 @@
 
 ### 🚀 Featured Projects
 
-* **[Talent Vision (IA Predictiva)](tu-link-aqui)** *Machine Learning ecosystem to predict employee absenteeism.*
+* **[Talent Vision (IA Predictiva)](https://talentvision.streamlit.app/)** *Machine Learning ecosystem to predict employee absenteeism.*
     * **Tech:** Python, Scikit-Learn, Streamlit.
     * **Impact:** Built a predictive engine to optimize workforce planning and mitigate logistics risks.
 
-* **[Smart Bakery Analysis](tu-link-aqui)** *Sales and production optimization.*
+* **[Smart Bakery Analysis](https://smart-bakery.streamlit.app/)** *Sales and production optimization.*
     * **Tech:** SQL, Tableau.
     * **Impact:** Minimized waste by identifying demand patterns and profitability bottlenecks.
 
@@ -41,4 +41,5 @@
 ## 🤝 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmessiasgarcia/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](TU_LINK_DE_STREAMLIT)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/jmessiasgarcia)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jmessiasgarcia@gmail.com)
